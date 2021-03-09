@@ -35,6 +35,6 @@ The FoodSales tech challenge is an open-ended project to put together a framewor
 
 ### [IDEO Design Kit](https://www.designkit.org/)
 
-### [Design Sprint Kit](https://designsprintkit.withgoogle.com/)
+### [Google Design Sprint Kit](https://designsprintkit.withgoogle.com/)
 
 
