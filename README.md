@@ -6,9 +6,26 @@ The FoodSales tech challenge is an open-ended project to put together a framewor
 
 ## Discovery
 
+* Affinity Clustering
+* Persona Creation
+* Competitve Analysis
+* Lightening Round / User Story Creation
+
 ## Ideation
 
-## Implementation
+* Journey Mapping
+* User Task Flows
+* Wireframing
+
+## Validation
+
+* Usability Testing
+
+## Creation
+
+* High Fidelity Mockups
+* Design System Documentation
+* App UI Development / MVP
 
 ## Further Resources
 
