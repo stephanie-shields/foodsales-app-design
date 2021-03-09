@@ -30,3 +30,8 @@ The FoodSales tech challenge is an open-ended project to put together a framewor
 ## Further Resources
 
 ### [Digital Services Playbook](https://playbook.cio.gov/)
+
+### [18F Methods](https://methods.18f.gov/)
+
+### [IDEO Design Kit](https://www.designkit.org/)
+
