@@ -6,8 +6,14 @@ The FoodSales tech challenge is an open-ended project to put together a framewor
 
 ## Discovery
 
-* Affinity Clustering
-* Persona Creation
+Affinity Clustering
+
+![Affinity Clustering](./discovery/affinity-clustering.png)
+
+Persona Creation
+
+![Persona Creation](./discovery/personas.png)
+
 * Competitve Analysis
 * Lightening Round / User Story Creation
 
