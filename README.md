@@ -31,7 +31,8 @@ Define a Minimum Viable Product
 
 * Journey Mapping
 * Wireframing
-* High Fidelity Mockups
+* Style Tile
+* High Fidelities
 * Design System
 * MVP Development
 
