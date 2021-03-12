@@ -6,16 +6,26 @@ The FoodSales tech challenge is an open-ended project to put together a framewor
 
 ## Discovery
 
+User Persona Creation
+
+![User Persona Creation](./discovery/user-persona-method.png)
+
+User Needs Statements
+
+![User Needs Statements](./discovery/user-needs-statements-method.png)
+
 Affinity Clustering
 
-![Affinity Clustering](./discovery/affinity-clustering.png)
+![Affinity Clustering](./discovery/affinity-clustering-method.png)
 
-Persona Creation
+User Story Mapping
 
-![Persona Creation](./discovery/personas.png)
+![User Story Mapping](./discovery/user-story-mapping-method.png)
 
-* Competitve Analysis
-* Lightening Round / User Story Creation
+
+Define a Minimum Viable Product
+
+![Define a Minimum Viable Product](./discovery/minimum-viable-product-method.png)
 
 ## Ideation
 
