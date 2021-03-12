@@ -4,7 +4,7 @@ Welcome to the entry point for the FoodSales application code base and documenta
 
 The FoodSales tech challenge is an open-ended project to put together a framework to explore food sales data for a potential user who is looking to gain insights into the given dataset.
 
-## Discovery
+## Discovery and Inception
 
 User Persona Creation
 
@@ -27,21 +27,17 @@ Define a Minimum Viable Product
 
 ![Define a Minimum Viable Product](./discovery/minimum-viable-product-method.png)
 
-## Ideation
+## Ideation and Creation
 
 * Journey Mapping
-* User Task Flows
 * Wireframing
+* High Fidelity Mockups
+* Design System
+* MVP Development
 
 ## Validation
 
 * Usability Testing
-
-## Creation
-
-* High Fidelity Mockups
-* Design System Documentation
-* App UI Development / MVP
 
 ## Further Resources
 
