@@ -29,12 +29,13 @@ Define a Minimum Viable Product
 
 ## Ideation and Creation
 
+* Solution Sketching
 * Journey Mapping
 * Wireframing
-* Style Tile
+* Style Tile Creation
 * High Fidelities
-* Design System
-* MVP Development
+* UI Design System
+* UI Development
 
 ## Validation
 
@@ -50,4 +51,4 @@ Define a Minimum Viable Product
 
 ### [Google Design Sprint Kit](https://designsprintkit.withgoogle.com/)
 
-
+### [IBM Design Thinking](https://www.ibm.com/design/thinking/)
