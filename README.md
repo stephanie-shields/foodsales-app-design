@@ -29,7 +29,10 @@ Define a Minimum Viable Product
 
 ## Ideation and Creation
 
-* Solution Sketching
+Solution Sketching
+
+![Solution Sketching](./creation/solution-sketching-method.png)
+
 * Journey Mapping
 * Wireframing
 * Style Tile Creation
