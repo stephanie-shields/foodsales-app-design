@@ -44,14 +44,15 @@ Solution Sketching
 
 * Usability Testing
 
+## Tools
+
+* [Figma](https://www.figma.com/)
+* Pen and Paper
+
 ## Further Resources
 
-### [Digital Services Playbook](https://playbook.cio.gov/)
-
-### [18F Methods](https://methods.18f.gov/)
-
-### [IDEO Design Kit](https://www.designkit.org/)
-
-### [Google Design Sprint Kit](https://designsprintkit.withgoogle.com/)
-
-### [IBM Design Thinking](https://www.ibm.com/design/thinking/)
+* [Digital Services Playbook](https://playbook.cio.gov/)
+* [18F Methods](https://methods.18f.gov/)
+* [IDEO Design Kit](https://www.designkit.org/)
+* [Google Design Sprint Kit](https://designsprintkit.withgoogle.com/)
+* [IBM Design Thinking](https://www.ibm.com/design/thinking/)
