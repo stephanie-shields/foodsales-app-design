@@ -14,13 +14,13 @@ User Persona Creation
 
 ![User Persona Creation](./discovery/user-persona-method.png)
 
-User Needs Statements
-
-![User Needs Statements](./discovery/user-needs-statements-method.png)
-
 User Story Mapping
 
 ![User Story Mapping](./discovery/user-story-mapping-method.png)
+
+User Needs Statements
+
+![User Needs Statements](./discovery/user-needs-statements-method.png)
 
 Define a Minimum Viable Product
 
