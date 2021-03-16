@@ -2,7 +2,7 @@
 
 Welcome to the entry point for the FoodSales application code base and documentation.
 
-The FoodSales tech challenge is an open-ended project to put together a framework to explore ![food sales data](./data/FoodSales.csv) for a potential user who is looking to gain insights into the given dataset.
+The FoodSales tech challenge is an open-ended project to put together a framework to explore [food sales data](./data/FoodSales.csv) for a potential user who is looking to gain insights into the given dataset.
 
 ## Discovery and Inception
 
