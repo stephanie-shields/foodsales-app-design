@@ -33,8 +33,10 @@ Solution Sketching
 
 ![Solution Sketching](./creation/solution-sketching-method.png)
 
-* Journey Mapping
-* Wireframing
+Wireframing
+
+![Wireframing](./creation/wireframing-method.png)
+
 * Style Tile Creation
 * High Fidelities
 * UI Design System
