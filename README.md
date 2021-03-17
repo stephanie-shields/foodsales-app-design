@@ -36,14 +36,20 @@ Wireframing
 
 ![Wireframing](./creation/wireframing-method.png)
 
-* Style Tile Creation
-* High Fidelities
-* UI Design System
-* UI Development
+Style Tile Creation
+
+![Style Tile Creation](./creation/style-tile-method.png)
+
+High Fidelity Prototypes
+
+![High Fidelity Prototypes](./creation/high-fidelity-prototypes-method.png)
+
+* UI Design System (Coming Soon)
+* UI Development (Coming Soon)
 
 ## Validation
 
-* Usability Testing
+* Usability Testing (Coming Soon)
 
 ## Tools
 
